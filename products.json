@@ -1,0 +1,69 @@
+[
+    {
+        "name":"accent chair",
+        "price":25,
+        "company":"marcos",
+        "rating":4
+    },
+    {
+        "name":"albany sectional",
+        "price":85,
+        "company":"liddly",
+        "rating":5
+    },
+    {
+        "name":"albany table",
+        "price":280,
+        "company":"caressa",
+        "rating":5
+    },
+    {
+        "name":"emperor bed",
+        "price":24,
+        "company":"ikea"
+    },
+    {
+        "name":"entertainment center",
+        "price":68,
+        "featured":true,
+        "company":"ikea"
+    },
+    {
+        "name":"leather sofa",
+        "price":78,
+        "company":"caressa"
+    },
+    {
+        "name":"modern bookshelf",
+        "price":31,
+        "featured":false,
+        "company":"ikea"
+    },
+    {
+        "name":"modern poster",
+        "price":30,
+        "company":"liddly"
+    },
+    {
+        "name":"sofa set",
+        "price":129,
+        "company":"marcos"
+    },
+    {
+        "name":"modern sheoshelf",
+        "price":36,
+        "featured":false,
+        "company":"marcos"
+    },
+    {
+        "name":"suede armchair",
+        "price":15,
+        "company":"caressa"
+    },
+    {
+        "name":"vase table",
+        "price":120,
+        "featured":true,
+        "company":"marcos"
+    }
+]

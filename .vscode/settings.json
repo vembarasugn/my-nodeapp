@@ -1,0 +1,15 @@
+{
+    "liveServer.settings.CustomBrowser": "microsoft-edge",
+    "liveServer.settings.port":8080,
+    "liveServer.settings.ChromeDebuggingAttachment": true,
+    "liveServer.settings.host": "http://localhost:8080/" ,
+    "liveServer.settings.mount": [],
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.root": "my-app/public/index.html",
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+      ] 
+}
